@@ -1,2 +1,1 @@
-def theprint(x):
-    print(x)
+aprint=print
