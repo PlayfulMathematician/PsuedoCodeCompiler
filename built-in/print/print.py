@@ -1,1 +1,1 @@
-aprint=print
+dict = {"aprint":print}
