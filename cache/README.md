@@ -1,1 +1,1 @@
-Store variables
+This is used store variables
