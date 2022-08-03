@@ -1,1 +1,1 @@
-eval(input(">> ")
+eval(input(">> "))
