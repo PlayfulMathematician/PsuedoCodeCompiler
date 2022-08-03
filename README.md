@@ -1,2 +1,0 @@
-# PseudoCodeCompiler
-This compiles PseudoCode
