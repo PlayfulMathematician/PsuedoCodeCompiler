@@ -1,4 +1,5 @@
 import single_line
+import init
 def main(filename,r):
   with open(filename,r) as f:
     lines=r.readlines()
