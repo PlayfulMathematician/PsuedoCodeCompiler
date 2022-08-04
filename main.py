@@ -12,4 +12,4 @@ def main(filename,r):
       		else:
         		single_line.interpret(line)
 	if not interpreted:
-    	print("The file you requested doesnt exist")
+    		print(f"The file {filename} doesnt exist")
