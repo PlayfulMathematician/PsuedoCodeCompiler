@@ -10,6 +10,6 @@ def main(filename,r):
       		if str(filter(lambda x:not (x == ' '),line))[0] = "#":
         		continue
       		else:
-        		single_line.interpret(line)
+        		single_line.single_line(line)
 	if not interpreted:
     		print(f"The file {filename} doesnt exist")
